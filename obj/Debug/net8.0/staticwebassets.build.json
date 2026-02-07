@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fT6jHFwF0hbOdy3OiYSjP/RTKBxmJ8+DwXOCoizGcbw=",
+  "Source": "APIRest-CSharp",
+  "BasePath": "_content/APIRest-CSharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
